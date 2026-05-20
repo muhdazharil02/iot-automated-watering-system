@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6Xze6M1cE"
-#define BLYNK_TEMPLATE_NAME "Watering"
-#define BLYNK_AUTH_TOKEN "5fIQpxo9y_NUASx8y_g-MHG77mPgsV6W"
+#define BLYNK_TEMPLATE_ID "****"
+#define BLYNK_TEMPLATE_NAME "****"
+#define BLYNK_AUTH_TOKEN "*****"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
